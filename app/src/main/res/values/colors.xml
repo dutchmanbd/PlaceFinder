@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#016973</color>
+    <color name="colorPrimaryDark">#e42c4245</color>
+    <color name="colorAccent">#acdcff</color>
+    <color name="gridColor">#cde4f4</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="redTextColor">#FF0000</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>

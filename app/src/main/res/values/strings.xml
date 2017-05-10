@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Place Finder</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+
+    <!--Fragment name on Title Bar-->
+    <string name="home_title">Home</string>
+    <string name="atm_title">ATM</string>
+    <string name="airport_title">Airport</string>
+    <string name="bank_title">Bank</string>
+    <string name="beauty_salon_title">Beauty Salon</string>
+    <string name="car_repair_title">Car Repair</string>
+    <string name="gas_station_title">Gas Station</string>
+    <string name="bus_station_title">Bus Station</string>
+    <string name="gym_title">Gymnasium</string>
+    <string name="hospital_title">Hospital</string>
+    <string name="money_exchange_title">Money Exchange</string>
+    <string name="mosque_title">Mosque</string>
+    <string name="night_club_title">Night Club</string>
+    <string name="police_station_title">Police Station</string>
+    <string name="post_office_title">Post Office</string>
+    <string name="restaurant_title">Restaurant</string>
+    <string name="shopping_mall_title">Shopping Mall</string>
+    <string name="hotel_title">Hotel</string>
+
+
+    <string name="about_us">About Us</string>
+    <string name="tc">Northern University Bangladesh</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_nearby_places">Nearby Places</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="dutch_bangla_bank_limited">Dutch-Bangla Bank Limited</string>
+
+
+    <string name="banner_ad_unit_id">Write your banner_ad_unit_id</string>
+
+    <string name="aboutUsDetails">
+
+        <b><medium>Name:</medium></b>\n\n
+		<b> <small>Md. Jewel Rana</small></b>\n\n
+        <b><medium>Contact Us</medium></b>\n\n
+        <b><small>Email:</small></b>\nzxdmjr@gmail.com\njewelms007@gmail.com\n\n
+        <b><small>Facebook:</small></b>\nwww.facebook.com/dutchman.bd\n\n
+        <b><small>Phone:</small></b>\n+880 1553 553028\n+880 1812 386609
+
+    </string>
+
+    <string name="dev_versity">Northern University Bangladesh</string>
+
+    <string name="details">I complete my graduation from NUB in CSE Department.
+    </string>
+
+
+</resources>
